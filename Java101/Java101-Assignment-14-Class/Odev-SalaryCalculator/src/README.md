@@ -2,6 +2,7 @@ Java'da "Employee" adında fabrika çalışanlarını temsil eden ve metotları 
 
 Sınıfın Nitelikleri
 
+
 name : Çalışanın adı ve soyadı
 
 salary : Çalışanın maaşı
@@ -33,6 +34,7 @@ Eğer çalışan 19 yıldan fazla çalışıyorsa %15 zam yapılacaktır.
 toString() : Çalışana ait bilgileri ekrana bastıracaktır.
 
 Örnek :
+
 
 Adı : kemal
 
